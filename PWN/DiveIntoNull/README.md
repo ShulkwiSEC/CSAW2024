@@ -72,7 +72,7 @@ tmp
 usr
 var
 `````
-i think we do it we get the file now lets search for the flag file i forget to tell you they left `````cd````, ````pwd````, with ````echo````
+i think we do it we get the file now lets search for the flag file i forget to tell you they left ```cd```, ```pwd```, with ```echo```
 for use so we are ready to exploit !!!!!!!!!!!! why i think we forget some one in home ???????
 ```` OhMycAT ```` we forget you we are soooo sorry i will come back to get you 
 
