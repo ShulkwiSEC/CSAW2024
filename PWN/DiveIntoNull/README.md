@@ -39,7 +39,7 @@ exit
 exit
 ````
 
-as you see no commant if you read the challnge discrption it say
+as you see no commands work if you read the challnge discrption it say
 
 ```` Oops, I rm -rf 'ed my binaries ````
 
